@@ -47,7 +47,6 @@ form .ipsum {
     font-size: 12px;
     font-weight: 550;
     padding: 0 8px;
-    position: absolute;
 }
 
 .ipsum #password { margin: 6px; }
